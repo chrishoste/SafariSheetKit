@@ -1,7 +1,7 @@
 # SafariSheetKit
 
 [![Swift](https://img.shields.io/badge/Swift-6.2-orange.svg)](https://swift.org)
-[![Platform](https://img.shields.io/badge/platform-iOS%2026%2B-blue.svg)](https://developer.apple.com/ios/)
+[![Platform](https://img.shields.io/badge/platform-iOS%2016%2B-blue.svg)](https://developer.apple.com/ios/)
 [![Swift Package Manager](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)](https://www.swift.org/package-manager/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE.md)
 
@@ -11,7 +11,7 @@ It exposes an environment action that feels similar to SwiftUI's `openURL`, but 
 
 ## Requirements
 
-- iOS 26.0 or later
+- iOS 16.0 or later
 - Swift 6.2 or later
 - SwiftUI
 
