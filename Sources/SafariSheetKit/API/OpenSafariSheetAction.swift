@@ -1,7 +1,7 @@
 import Foundation
 
 /// The outcome of a request to present a URL in a Safari sheet.
-public enum OpenSafariSheetResult: Sendable {
+public enum OpenSafariSheetResult: Equatable, Sendable {
     /// The URL was accepted and presentation was requested.
     case handled
 

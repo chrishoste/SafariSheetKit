@@ -14,6 +14,10 @@ let package = Package(
         )
     ],
     targets: [
-        .target(name: "SafariSheetKit")
+        .target(name: "SafariSheetKit"),
+        .testTarget(
+            name: "SafariSheetKitTests",
+            dependencies: ["SafariSheetKit"]
+        )
     ]
 )

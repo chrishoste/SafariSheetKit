@@ -12,3 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - `OpenSafariSheetResult` with `.handled` and `.discarded` outcomes.
 - `safariSheetPresenter()` root modifier for installing the presenter.
 - DocC documentation and README usage guide.
+- Swift Testing coverage for action results and URL validation.
+
+### Changed
+
+- `OpenSafariSheetResult` now conforms to `Equatable`.
