@@ -10,6 +10,7 @@ xcuserdata/
 .build/
 .swiftpm/
 Package.resolved
+.swiftlint_cache/
 
 # Xcode build products
 DerivedData/
