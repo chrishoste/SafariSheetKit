@@ -1,5 +1,10 @@
 # SafariSheetKit
 
+[![Swift](https://img.shields.io/badge/Swift-6.2-orange.svg)](https://swift.org)
+[![Platform](https://img.shields.io/badge/platform-iOS%2026%2B-blue.svg)](https://developer.apple.com/ios/)
+[![Swift Package Manager](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)](https://www.swift.org/package-manager/)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE.md)
+
 SafariSheetKit is a small SwiftUI package for presenting web URLs in an in-app Safari sheet.
 
 It exposes an environment action that feels similar to SwiftUI's `openURL`, but is intentionally scoped to `http` and `https` URLs. Supported URLs are presented with `SFSafariViewController`; unsupported URLs are ignored and reported as `.discarded`.
