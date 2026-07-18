@@ -19,7 +19,7 @@ Changes should preserve these constraints:
 Requirements:
 
 - Xcode with Swift 6.2 or later
-- iOS 26 SDK or later
+- iOS 16 SDK or later
 
 Before opening a pull request:
 
